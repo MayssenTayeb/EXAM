@@ -1,1 +1,4 @@
 feature.txt
+Ligne1
+Ligne2
+Ligne3
